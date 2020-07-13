@@ -1,2 +1,2 @@
-# MS-Paint-Rick-and-Morty-Themed-
-Rick and Morty Themed MS-Paint Program
+# MS-Paint Rick and Morty Themed
+A spin on the iconic Microsoft Paint program, with a Rick and Morty theme.
